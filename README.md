@@ -18,7 +18,7 @@
 
 ## 🧠 About Me
 
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
 
 ```python
 class AIDataScientist:
@@ -135,7 +135,7 @@ print(me.motto())
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=lifna-gp&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4&margin-w=10&margin-h=10)](https://github.com/lifna-gp)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=lifna-gp&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4&margin-w=10&rank=SECRET,B,C)](https://github.com/lifna-gp)
 
 </div>
 
