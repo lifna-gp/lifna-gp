@@ -1,185 +1,214 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Lifna%20G%20P&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20Data%20Science%20%7C%20Deep%20Learning%20%7C%20Computer%20Vision%20%7C%20ETL%20Pipelines&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=AI%20%26%20Data%20Science%20Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Deep%20Learning%20%7C%20Computer%20Vision%20%7C%20ETL%20Pipelines%20%7C%20BI%20Dashboards&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Undergraduate+%F0%9F%A4%96;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Benchmarking+8+Architectures+for+Smart-City+CCTV;ETL+Pipelines+%7C+BI+Dashboards+%7C+KPI+Reporting;2x+National+Award+Winner+%F0%9F%8F%85)](https://readme-typing-svg.demolab.com)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=lifna-gp&color=70a5fd&style=flat-square&label=Profile+Views)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lifna-gp)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-lifna--gp-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lifna-gp)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Undergrad+%F0%9F%A4%96;Deep+Learning+%7C+Computer+Vision+Researcher;ETL+Pipelines+%7C+Power+BI+%7C+Cloud+AI;Best+Poster+Award+%E2%80%94+Tech+Star+Summit+2026+%F0%9F%8F%86)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 
-<img align="right" width="330" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
-lifna = {
-    "location"   : "Chennai, Tamil Nadu, India 🇮🇳",
-    "degree"     : "B.Sc. AI & Data Science @ Saveetha College",
-    "research"   : "Deep Learning for Low-Quality CCTV Surveillance",
-    "strengths"  : ["Model Benchmarking", "Computer Vision", "ETL Pipelines"],
-    "learning"   : ["Tableau", "MLOps", "LLM Fine-Tuning", "Video Understanding"],
-    "wins"       : "2x National Award Winner 🏅",
-    "fun_fact"   : "Benchmarked 8 deep learning architectures for"
-                   " smart-city CCTV surveillance 📷"
-}
+class AIDataScienceDev:
+    def __init__(self):
+        self.name           = "AI & Data Science Developer"
+        self.location       = "Chennai, Tamil Nadu, India 🇮🇳"
+        self.degree         = "B.Sc. AI & Data Science — Saveetha College (2024–2027)"
+        self.reg_no         = "252414030"
+
+        self.stack = [
+            "Python", "SQL", "TensorFlow", "PyTorch",
+            "OpenCV", "YOLOv8", "Swin Transformer",
+            "Power BI", "Google Cloud", "Firebase"
+        ]
+
+        self.currently_learning = [
+            "Tableau → Advanced Dashboards",
+            "Vertex AI → MLOps Pipelines",
+            "TimeSformer → Video Understanding",
+        ]
+
+        self.fun_fact = (
+            "I benchmarked 8 deep learning architectures "
+            "on degraded CCTV footage — and won Best Poster! 🎯"
+        )
+
+    def motto(self):
+        return "Turn raw data into decisions. Turn models into impact. 🚀"
+
+me = AIDataScienceDev()
+print(me.motto())
 ```
 
 <br clear="right"/>
 
 ---
 
-## Technical Skills
+## 🛠️ Tech Stack
 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**AI / Machine Learning**
+**ML / Deep Learning**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-
-**Deep Learning & Vision Models**
-
-![Swin Transformer](https://img.shields.io/badge/Swin%20Transformer-6C63FF?style=flat-square&logo=pytorch&logoColor=white)
-![TimeSformer](https://img.shields.io/badge/TimeSformer-BF91F3?style=flat-square&logo=pytorch&logoColor=white)
-![ResNet](https://img.shields.io/badge/ResNet-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![CVAE](https://img.shields.io/badge/CVAE-38BDAE?style=flat-square&logo=pytorch&logoColor=white)
-![ConvLSTM](https://img.shields.io/badge/ConvLSTM-70A5FD?style=flat-square&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 **Cloud & DevOps**
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Data Science & BI Tools**
+**BI & Data Tools**
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 
 ---
 
-## Featured Projects
-
-| Project | Description | Stack | Impact |
-|:---|:---|:---|:---|
-| **🔬 Deep Learning for CCTV Surveillance** | Benchmarked 8 DL architectures for smart-city low-quality CCTV surveillance | `PyTorch` `TensorFlow` `YOLOv8` `Swin Transformer` `TimeSformer` `CVAE` `OpenCV` | Improved tamper detection accuracy, reduced false alarm rates, cut edge-device energy consumption — **🏅 Best Poster, Tech Star Summit 2026** |
-| **🌾 Cropic — Crop Intelligence Platform** | AI crop disease diagnostics with geo-tagged pest and disease detection | `Python` `Cloud Vision API` `Vertex AI` `Firebase` `SQL` `Geo-tagging API` | End-to-end ETL pipeline; GPS-tagged outbreak analytics; Firebase Realtime KPI monitoring; modular for new crop types |
-| **📊 MIS Employee Productivity Monitor** | Automated AI-powered employee activity and KPI monitoring system | `Python` `Pandas` `OpenCV` `pynput` `NLP (T5/BERT)` `Excel` `Power BI` | KPI engine (0–100) with anomaly flagging; T5/BERT activity digests; interactive Excel dashboard — **🏅 Best Project, MIS Competition 2025** |
-
----
-
-## Experience
-
-**Undergraduate Researcher — Saveetha College of Liberal Arts & Sciences** &nbsp; (2025 – 2026)
-
-**MIS Prototype Competition Participant — Alpha College of Arts & Sciences** &nbsp; (2024 – 2025)
-
----
-
-## GitHub Insights
+## 📊 GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/lifna-gp">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=lifna-gp&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&hide_rank=true"/>
-</a>&nbsp;
-<a href="https://github.com/lifna-gp">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifna-gp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
 
-<br/>
+---
+
+## 🔥 Streak Stats
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lifna-gp&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10&starting_year=2026)](https://streak-stats.demolab.com/?user=lifna-gp)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lifna-gp&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=bf91f3&hide_border=true&custom_title=Lifna%27s%20Contribution%20Graph)](https://github.com/lifna-gp)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=lifna-gp&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4&margin-w=10&rank=SECRET,B,C)](https://github.com/lifna-gp)
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## Achievements
+## 📈 Activity Graph
 
-| Award | Event | Host |
-|:---|:---|:---|
-| 🥇 Best Poster Award | Tech Star Summit 2026 — Deep Learning Research | Saveetha Transdisciplinary Annual Research Summit |
-| 🥇 Best Project Award | MIS Prototype Competition 2025 — AI Productivity System | Alpha College of Arts & Sciences, Porur |
-| 🇮🇳 National Participant | Smart India Hackathon (SIH) | Government of India |
-| 📜 Certified | Data Science Using Python — SWAYAM / NPTEL | Government of India e-learning platform |
-| 📊 Certified | Tata Group Data Analytics Job Simulation (May 2026) | Tata iQ Financial Services |
-| 🔍 Certified | Deloitte Data Analytics Job Simulation (May 2026) | Deloitte Forensic Technology |
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
+
+</div>
 
 ---
 
-## Education
+## 🏆 Trophy Wall
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/YOUR_GITHUB_USERNAME)
+
+</div>
+
+---
+
+## 💼 Work & Research Experience
+
+<details>
+<summary>🔬 <strong>Saveetha College of Liberal Arts & Sciences</strong> — Research Scholar · 2025 – 2026 · Chennai, India</summary>
+
+<br/>
+
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=github&logoColor=black)
+
+**Deep Learning Approaches for Low-Quality CCTV Surveillance Systems**
+Guide: Dr. R. Jothi | Reg. No: 252414030 | 🏆 Best Poster Award — Tech Star Summit 2026
+
+- Benchmarked **Swin Transformer vs. ResNet50** for tamper detection; shifted-window self-attention improved accuracy and reduced inference latency in degraded smart-city CCTV feeds.
+- Evaluated **Pruned YOLOv8n vs. YOLOv8x** for edge-device object detection; structured pruning cut energy consumption while maintaining stable detection under blur and low-resolution conditions.
+- Compared **CVAE vs. ResNet18** for anomaly detection; generative reconstruction significantly reduced false alarm rates and improved robustness against occlusion.
+- Assessed **TimeSformer vs. ConvLSTM** for early tamper/blockage detection; spatio-temporal attention improved early-warning response time and reduced missed detections.
+
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Stack | Highlights |
+|:--------|:------|:-----------|
+| [🌾 **Cropic**](https://github.com/YOUR_GITHUB_USERNAME/cropic) — Real-Time Crop Intelligence Platform | Python · GCP Vision API · Vertex AI · Firebase · SQL · Geo-tagging | End-to-end ETL pipeline for crop disease classification; GPS-tagged outbreak analytics; live KPI monitoring via Firebase Realtime Database |
+| [📊 **MIS Prototype**](https://github.com/YOUR_GITHUB_USERNAME/mis-prototype) — Employee Productivity Monitor | Python · Pandas · OpenCV · pynput · T5/BERT · Excel · Power BI | KPI scoring (0–100) with anomaly flagging; NLP-based AI activity digests; interactive Excel dashboard with Slicers & Pivot Tables — **Won Best Project Award 2025** |
+| [🔍 **CCTV Surveillance DL Benchmark**](https://github.com/YOUR_GITHUB_USERNAME/cctv-dl-benchmark) | PyTorch · TensorFlow · Swin Transformer · TimeSformer · YOLOv8 · CVAE · ConvLSTM | Benchmarked 8 architectures on degraded CCTV feeds; **Best Poster — Tech Star Summit 2026** |
+
+</div>
+
+---
+
+## 🏅 Achievements
+
+<div align="center">
+
+| | Achievement | Details |
+|:-:|:------------|:--------|
+| 🥇 | **Best Poster Award — Tech Star Summit 2026** | Saveetha Transdisciplinary Annual Research Summit; Deep Learning for CCTV Surveillance research |
+| 🥇 | **Best Project Award — MIS Prototype Competition 2025** | Alpha College of Arts & Sciences, Porur; Automated Employee Productivity Monitoring System |
+| 🇮🇳 | **Smart India Hackathon (SIH) Participant** | National-level government-organised innovation hackathon |
+| 📜 | **Data Science Using Python — SWAYAM/NPTEL** | Government of India certified course |
+| 📜 | **Tata Group Data Analytics Job Simulation** | AI-powered analytics & strategy simulation for Tata iQ Financial Services (May 2026) |
+| 📜 | **Deloitte Data Analytics Job Simulation** | Practical data analysis and forensic technology tasks (May 2026) |
+
+</div>
+
+---
+
+## 🎓 Education
+
+<div align="center">
 
 | Degree | Institution | Year | Score |
-|:---|:---|:---:|:---:|
-| B.Sc. Artificial Intelligence & Data Science | Saveetha College of Liberal Arts & Sciences, Chennai | Expected 2027 | In Progress |
-| 12th Standard (CBSE) | Velammal Bodhi Campus, Ponneri | 2024 | 72.4% |
+|:-------|:------------|:-----|:------|
+| B.Sc. Artificial Intelligence & Data Science | Saveetha College of Liberal Arts and Sciences, Chennai | 2024 – 2027 (Expected) | In Progress |
+| 12th Standard — CBSE | Velammal Bodhi Campus, Ponneri | 2023 – 2024 | 72.4% |
+
+</div>
 
 ---
 
-## Currently Exploring
+## 🧱 Currently Learning
 
 ```
-🔬  Model Benchmarking     →  Transformer vs CNN, edge deployment optimization
-🤖  Large Language Models  →  Fine-tuning, RLHF, RAG pipelines
-🎥  Video Understanding    →  Spatio-temporal attention, action recognition
-☁️  MLOps & Deployment     →  Model serving, CI/CD for ML, monitoring
-📊  Advanced BI            →  Tableau, advanced DAX in Power BI
-🔍  Data Governance        →  Schema validation, lineage, quality frameworks
+🧱 Tableau            →  Advanced Dashboards · Calculated Fields · LOD Expressions
+🧱 Vertex AI          →  MLOps Pipelines · Model Registry · Batch Predictions
+🧱 Video Transformers →  TimeSformer · ViViT · Spatio-temporal Attention
+🧱 Data Governance    →  Schema Validation · Data Quality Frameworks · Lineage Tracking
+🧱 Edge AI            →  Model Pruning · Quantization · TFLite Deployment
 ```
-
-*Building intelligent systems that solve real problems.*
 
 ---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lifna-gp)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lifna-gp)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/YOUR_GITHUB_USERNAME)
+
+*"Turn raw data into decisions. Turn models into impact." 🚀*
 
 </div>
 
