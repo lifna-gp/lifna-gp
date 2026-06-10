@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=AI%20%26%20Data%20Scientist&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Benchmarking%20Deep%20Learning%20%7C%20Building%20Intelligent%20Systems%20%7C%20Turning%20Data%20into%20Decisions&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Lifna%20G%20P&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20%7C%20Deep%20Learning%20%7C%20Computer%20Vision%20%7C%20ETL%20Pipelines&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Undergraduate+%F0%9F%A4%96;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Benchmarking+Transformers+vs+CNN+Architectures;Building+ETL+Pipelines+%26+BI+Dashboards+%F0%9F%93%8A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Undergraduate+%F0%9F%A4%96;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Benchmarking+Transformers+vs+CNN+Architectures;Building+ETL+Pipelines+%26+BI+Dashboards+%F0%9F%93%8A)](https://readme-typing-svg.demolab.com)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lifna-gp&color=70a5fd&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lifna-gp)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](https://github.com/lifna-gp)
+[![GitHub](https://img.shields.io/badge/GitHub-lifna--gp-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lifna-gp)
 
 </div>
 
@@ -18,13 +18,13 @@
 
 ## 🧠 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"/>
 
 ```python
 class AIDataScientist:
 
     def __init__(self):
-        self.name          = "AI & Data Science Researcher"
+        self.name          = "Lifna G P"
         self.location      = "Chennai, Tamil Nadu, India 🇮🇳"
         self.degree        = "B.Sc. Artificial Intelligence & Data Science"
         self.college       = "Saveetha College of Liberal Arts & Sciences"
@@ -101,10 +101,10 @@ print(me.motto())
 <div align="center">
 
 <a href="https://github.com/lifna-gp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lifna-gp&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lifna-gp&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&hide_rank=false&card_width=450"/>
 </a>
 <a href="https://github.com/lifna-gp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifna-gp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifna-gp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&card_width=320"/>
 </a>
 
 </div>
@@ -115,7 +115,7 @@ print(me.motto())
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lifna-gp&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lifna-gp&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://streak-stats.demolab.com/?user=lifna-gp)
 
 </div>
 
@@ -125,7 +125,7 @@ print(me.motto())
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lifna-gp&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/lifna-gp)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lifna-gp&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=70a5fd&hide_border=true)](https://github.com/lifna-gp)
 
 </div>
 
@@ -135,7 +135,7 @@ print(me.motto())
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=lifna-gp&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/lifna-gp)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=lifna-gp&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=6)](https://github.com/lifna-gp)
 
 </div>
 
@@ -144,13 +144,14 @@ print(me.motto())
 ## 💼 Work & Research Experience
 
 <details>
-<summary><b>🔬 Saveetha College of Liberal Arts & Sciences — Undergraduate Researcher</b> · 2025 – 2026 · Chennai, India</summary>
+<summary><b>🔬 Saveetha College of Liberal Arts & Sciences — Undergraduate Researcher</b> &nbsp;·&nbsp; 2025 – 2026 &nbsp;·&nbsp; Chennai, India</summary>
 
 <br/>
 
 > `Python` `PyTorch` `TensorFlow` `OpenCV` `Swin Transformer` `TimeSformer` `YOLOv8` `ResNet50` `ResNet18` `CVAE` `ConvLSTM` `scikit-learn` `NumPy` `Pandas` `Matplotlib`
 
 **Research: Deep Learning Approaches for Low-Quality CCTV Surveillance Systems**
+
 - Benchmarked **Swin Transformer vs. ResNet50** for tamper detection; shifted-window self-attention improved accuracy and reduced inference latency in degraded smart-city CCTV feeds.
 - Evaluated **Pruned YOLOv8n vs. YOLOv8x** for edge-device object detection; structured pruning cut energy consumption while maintaining stable detection under blur and low-resolution conditions.
 - Compared **CVAE vs. ResNet18** for anomaly detection; generative reconstruction significantly reduced false alarm rates and improved robustness against occlusion.
@@ -160,15 +161,16 @@ print(me.motto())
 </details>
 
 <details>
-<summary><b>🏢 Alpha College of Arts & Sciences — MIS Prototype Competition</b> · 2024 – 2025 · Porur, Chennai</summary>
+<summary><b>🏢 Alpha College of Arts & Sciences — MIS Prototype Competition</b> &nbsp;·&nbsp; 2024 – 2025 &nbsp;·&nbsp; Porur, Chennai</summary>
 
 <br/>
 
 > `Python` `Pandas` `OpenCV` `pynput` `NLP (T5/BERT)` `Excel (openpyxl)` `Power BI`
 
 **Project: Automated Employee Productivity Monitoring System**
+
 - Built a **Python ETL pipeline** automating employee activity collection — check-in/check-out, keyboard/mouse events via `pynput`, idle-time computation — generating KPI scores (0–100) with anomaly flagging.
-- Implemented **random screenshot capture** with OpenCV and **NLP-based summarisation** (T5/BERT) to produce AI activity digests stored in structured Excel reports.
+- Implemented **random screenshot capture** with OpenCV and **NLP-based summarisation (T5/BERT)** to produce AI activity digests stored in structured Excel reports.
 - Designed **interactive Excel dashboard** with Pivot Tables, dynamic charts, Slicers, and Conditional Formatting.
 - 🏅 Won **Best Project Award** at the MIS Prototype Competition, Alpha College of Arts & Sciences (2025).
 
@@ -181,10 +183,10 @@ print(me.motto())
 <div align="center">
 
 | 🗂️ Project | 🛠️ Stack | ✨ Highlights |
-|:---:|:---:|:---|
-| [**🔬 Deep Learning for CCTV Surveillance**](#) | `PyTorch` `TensorFlow` `YOLOv8` `Swin Transformer` `TimeSformer` `CVAE` `OpenCV` | Benchmarked **8 architectures** (Swin vs ResNet50, YOLOv8n vs YOLOv8x, CVAE vs ResNet18, TimeSformer vs ConvLSTM) for smart-city CCTV; improved tamper detection accuracy, reduced false alarm rates, cut edge-device energy consumption. **Best Poster Award — Tech Star Summit 2026** |
-| [**🌾 Cropic — Crop Intelligence Platform**](#) | `Python` `Google Cloud Vision API` `Vertex AI` `Firebase` `SQL` `Geo-tagging API` | End-to-end ETL pipeline classifying crop diseases from field images; geo-tagged diagnostic records with GPS for spatial outbreak analytics; Firebase Realtime Database for live KPI monitoring; modular architecture supporting new crop types without core refactoring |
-| [**📊 MIS Employee Productivity Monitor**](#) | `Python` `Pandas` `OpenCV` `pynput` `NLP (T5/BERT)` `Excel` `Power BI` | KPI scoring engine (0–100) with anomaly flagging; AI activity digests via T5/BERT summarisation; interactive Excel dashboard with Pivot Tables, Slicers & Conditional Formatting. **Best Project Award — MIS Prototype Competition 2025** |
+|:---|:---|:---|
+| 🔬 **Deep Learning for CCTV Surveillance** | `PyTorch` `TensorFlow` `YOLOv8` `Swin Transformer` `TimeSformer` `CVAE` `OpenCV` | Benchmarked **8 architectures** across tamper detection, object detection, anomaly detection & early warning; improved accuracy, cut false alarms, reduced edge-device energy. 🏅 **Best Poster — Tech Star Summit 2026** |
+| 🌾 **Cropic — Crop Intelligence Platform** | `Python` `Google Cloud Vision API` `Vertex AI` `Firebase` `SQL` `Geo-tagging API` | End-to-end ETL pipeline for crop disease classification; GPS geo-tagged outbreak analytics; Firebase Realtime KPI monitoring; modular for new crop types |
+| 📊 **MIS Employee Productivity Monitor** | `Python` `Pandas` `OpenCV` `pynput` `NLP (T5/BERT)` `Excel` `Power BI` | KPI engine (0–100) with anomaly flagging; AI activity digests via T5/BERT; interactive Excel dashboard with Pivot Tables & Slicers. 🏅 **Best Project — MIS Competition 2025** |
 
 </div>
 
@@ -196,10 +198,10 @@ print(me.motto())
 
 | 🎖️ | Achievement | Details |
 |:---:|:---|:---|
-| 🥇 | **Best Poster Award — Tech Star Summit 2026** | Saveetha Transdisciplinary Annual Research Summit; awarded for deep learning research on smart-city CCTV surveillance benchmarking |
-| 🥇 | **Best Project Award — MIS Prototype Competition 2025** | Alpha College of Arts & Sciences, Porur; awarded for building an AI-powered employee productivity monitoring system |
-| 🇮🇳 | **Smart India Hackathon (SIH) Participant** | National-level government-organised innovation hackathon; competed among thousands of teams pan-India |
-| 📜 | **Data Science Using Python — SWAYAM/NPTEL** | Certified by Government of India's national e-learning platform |
+| 🥇 | **Best Poster Award — Tech Star Summit 2026** | Saveetha Transdisciplinary Annual Research Summit; awarded for benchmarking 8 deep learning architectures for smart-city CCTV surveillance |
+| 🥇 | **Best Project Award — MIS Prototype Competition 2025** | Alpha College of Arts & Sciences, Porur; AI-powered employee productivity monitoring system |
+| 🇮🇳 | **Smart India Hackathon (SIH) Participant** | National-level government-organised innovation hackathon |
+| 📜 | **Data Science Using Python — SWAYAM / NPTEL** | Certified by Government of India's national e-learning platform |
 | 📊 | **Tata Group Data Analytics Job Simulation** | AI-powered analytics & strategy simulation for Tata iQ Financial Services (May 2026) |
 | 🔍 | **Deloitte Data Analytics Job Simulation** | Practical data analysis and forensic technology tasks (May 2026) |
 
@@ -238,8 +240,7 @@ print(me.motto())
 ### 💬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lifna-gp)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/lifna-gp)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lifna-gp)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lifna-gp)
 
 *"Don't just collect data — understand it, benchmark it, deploy it."*
 
